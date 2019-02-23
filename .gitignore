@@ -5,4 +5,6 @@
 #Server info
 server.pem
 instructions.txt
+data.log
 
+__pycache__
