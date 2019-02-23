@@ -1,0 +1,8 @@
+#Environments
+/venv
+.env
+
+#Server info
+server.pem
+instructions.txt
+
